@@ -1,3 +1,8 @@
+Install docker
+```shell
+curl -sSL https://get.docker.com | sh
+```
+
 Build image
 ```shell
 docker build -t oracle_apm .
